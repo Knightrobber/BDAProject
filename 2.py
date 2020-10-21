@@ -5,6 +5,7 @@ from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
 import numpy as np
 import plotly.graph_objects as go
+#U gay
 mean1 = [10,20] # set the mean of x and y coordinates
 sigma1 = [2,2] # set the sigma along x and y
 xCor=[] # array to store randomly generated x - coordinates
